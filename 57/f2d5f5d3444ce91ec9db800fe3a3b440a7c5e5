@@ -1,0 +1,20 @@
+desktop/assets/styles.css
+  s_71c4c264c4fe74::t_6ff2c95380ca83 228
+  s_71c4c264c4fe74::t_543ec15f0585ab 315
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "57f2d5f5d3444ce91ec9db800fe3a3b440a7c5e5",
+  "prompts": {},
+  "sessions": {
+    "s_71c4c264c4fe74": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6334ade9-35ee-405e-8727-4641a1ad00ba",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Marty <saint@ghost.lt>"
+    }
+  }
+}
