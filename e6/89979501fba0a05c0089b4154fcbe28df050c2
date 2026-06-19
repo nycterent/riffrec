@@ -1,0 +1,19 @@
+desktop/tests/rail-layout.test.ts
+  s_71c4c264c4fe74::t_4ff49e13e80c92 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e689979501fba0a05c0089b4154fcbe28df050c2",
+  "prompts": {},
+  "sessions": {
+    "s_71c4c264c4fe74": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6334ade9-35ee-405e-8727-4641a1ad00ba",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Marty <saint@ghost.lt>"
+    }
+  }
+}
